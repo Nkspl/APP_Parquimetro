@@ -1,10 +1,12 @@
 
 
 package com.mycompany.parcking;
-
+//Importaciones 
 import java.awt.event.ActionListener;
 import javax.swing.SwingUtilities;
 
+
+//Metodo main
 public class Parcking {
 public static void main(String[] args) {
         
